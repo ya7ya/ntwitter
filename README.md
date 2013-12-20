@@ -6,7 +6,7 @@ Asynchronous Twitter client API for node.js
 
 ## Installation
 
-You can install ntwitter and its dependencies with npm: `npm install ntwitter`.
+You can install ntwitter and its dependencies with npm: `npm install ntwitter`......
 
 
 ## Getting started
